@@ -129,6 +129,17 @@ When no recovery is feasible within the remaining horizon, collapse is uncontrol
 
 The distinction between controlled and uncontrolled collapse is determined solely by the race condition between expected utility recovery time and private horizon termination. Optimization failure under uncontrolled collapse is not a failure of agency or objective, but a structural consequence of horizon compression.
 
+**Proposition 19 (Optimization-Against-Optimization).**
+
+An actor does not apply maximum optimization continuously because optimization itself incurs cost in time, attention, risk, and horizon consumption. At each decision point, the actor optimizes not only over actions, but over the *optimization regime* applied to those actions.
+
+When the expected marginal utility of further search, comparison, or refinement is less than the marginal cost of optimization within the remaining private horizon, the actor rationally downgrades optimization intensity by truncating search or accepting non-dominant solutions.
+
+Behaviors commonly labeled as pride or laziness are indistinguishable under this mechanism: both arise from early termination of optimization due to dominance of optimization costs over expected gains.
+
+Thus, failure to apply maximum optimization at all times is not irrationality or loss of agency, but the equilibrium outcome of meta-optimization under horizon constraints.
+
+
 ---
 
 ### Annex A — Observability and Failure Conditions

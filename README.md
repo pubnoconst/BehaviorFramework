@@ -117,6 +117,17 @@ Collapse is therefore not caused by pride itself, but by premature convergence u
 Pride is an optimization heuristic with asymmetric downside:
 it saves effort immediately and charges its cost later, often beyond the actor’s ability to respond.
 
+**Proposition 18 (Control Collapse).**
+From Axioms 4, 5, and 6:
+
+Control Collapse occurs when an actor’s expected utility recovery decays faster than their remaining private horizon, forcing the suspension or abandonment of self-imposed constraints.
+
+If expected utility recovery remains feasible within the actor’s private horizon, the collapse is controlled: constraints are selectively relaxed to preserve or restore future utility.
+
+If no recovery is feasible within the remaining horizon, the collapse is uncontrolled: all constraints tied to future liability—promises, reputation, norms, and cooperation—are liquidated, and behavior shifts to terminal utility extraction or damage discharge.
+
+The distinction between controlled and uncontrolled collapse is determined solely by the race condition between agency or utility recovery time and horizon termination.
+
 ---
 
 ### Annex A — Observability and Failure Conditions

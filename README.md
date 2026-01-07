@@ -93,6 +93,31 @@ Love disables unconstrained optimization. Its persistence reflects selection pre
 **Proposition 16 (Lineage).**
 Lineage is the dead exercising agency through liability.
 
+**Proposition 17 (Pride as Premature Optimization).**
+From Axioms 4, 6, and 7.
+
+Pride is the selection of sufficiency over continued optimization.
+An actor declares a state “good enough” and halts further search.
+This is not error. Optimization has cost. Exploration consumes time, attention, and power. Pride reduces these expenditures by terminating inquiry and stabilizing strategy.
+Pride becomes pathological only when it freezes adaptation while the environment continues to drift. In this state:
+
+* marginal optimization is avoided,
+
+* latent liabilities accumulate,
+  
+* and power decays through obsolescence rather than loss.
+
+Collapse is therefore not caused by pride itself, but by premature convergence under horizon misestimation.
+
+*Pride is efficient under stable conditions and short horizons.
+
+*Pride is fatal under regime change, long horizons, or hidden liability growth.
+
+“Being humbled” is not moral correction. It is delayed feedback from environmental mismatch.
+
+Pride is an optimization heuristic with asymmetric downside:
+it saves effort immediately and charges its cost later, often beyond the actor’s ability to respond.
+
 ---
 
 ### Annex A — Observability and Failure Conditions

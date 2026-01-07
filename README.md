@@ -90,6 +90,9 @@ Parental love is sunk-cost enforcement that suppresses post-reproduction defecti
 Legacy narratives reframe irreversible loss as meaning, stabilizing behavior after hormonal enforcement decays.
 Love disables optimization. Its persistence reflects selection pressure, not actor-level benefit.
 
+**Proposition X (Lineage).**
+Lineage is the dead exercising agency through liability.
+
 ---
 
 ### Annex A — Observability and Failure Conditions

@@ -109,9 +109,8 @@ Pride becomes pathological only when it freezes adaptation while the environment
 
 Collapse is therefore not caused by pride itself, but by premature convergence under horizon misestimation.
 
-*Pride is efficient under stable conditions and short horizons.
-
-*Pride is fatal under regime change, long horizons, or hidden liability growth.
+* Pride is efficient under stable conditions and short horizons.
+* Pride is fatal under regime change, long horizons, or hidden liability growth.
 
 “Being humbled” is not moral correction. It is delayed feedback from environmental mismatch.
 

@@ -8,7 +8,7 @@ The Liability-Driven Behavior Framework is an explicitly axiomatic, descriptive 
 
 ### 1. Introduction
 
-This paper presents the Liability-Driven Behavior Framework as a compact axiomatic system for behavioral analysis. The framework rejects equilibrium guarantees, ethical primitives, and externally observable preferences. Behavior is modeled as optimization under private horizons, uncertainty, and liability. Stability, cooperation, and institutional persistence are treated as contingent outcomes of enforced alignment rather than equilibrium states.
+This paper presents the Liability-Driven Behavior Framework as a compact axiomatic system for behavioral analysis. The framework rejects equilibrium guarantees, ethical primitives, and externally observable preferences. Behavior is modeled as optimization under private horizons, uncertainty, and liability. Stability, cooperation, and institutional persistence are treated as contingent outcomes of enforced alignment rather than equilibrium states. LDBF is not falsified by outcomes that can be explained only by expanding the ontology it intentionally excludes.
 
 ---
 
@@ -88,7 +88,7 @@ Sexual instinct is a gene-level entropy injection compelling irreversible bindin
 Romantic love misrepresents liability acquisition as opportunity, inducing collapse of optionality before outcomes are observable.
 Parental love is sunk-cost enforcement that suppresses post-reproduction defection.
 Legacy narratives reframe irreversible loss as meaning, stabilizing behavior after hormonal enforcement decays.
-Love disables optimization. Its persistence reflects selection pressure, not actor-level benefit.
+Love disables unconstrained optimization. Its persistence reflects selection pressure, not actor-level benefit.
 
 **Proposition 16 (Lineage).**
 Lineage is the dead exercising agency through liability.

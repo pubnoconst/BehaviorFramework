@@ -118,15 +118,16 @@ Pride is an optimization heuristic with asymmetric downside:
 it saves effort immediately and charges its cost later, often beyond the actor’s ability to respond.
 
 **Proposition 18 (Control Collapse).**
+
 From Axioms 4, 5, and 6:
 
-Control Collapse occurs when an actor’s expected utility recovery decays faster than their remaining private horizon, forcing the suspension or abandonment of self-imposed constraints.
+Control Collapse occurs when an actor’s expected utility recovery time exceeds, or is perceived to exceed, their remaining private horizon, inducing horizon compression and degradation of optimization efficacy.
 
-If expected utility recovery remains feasible within the actor’s private horizon, the collapse is controlled: constraints are selectively relaxed to preserve or restore future utility.
+When expected utility recovery remains feasible within the private horizon, collapse is controlled. The actor preserves horizon coherence and continues comparative optimization, selectively relaxing self-imposed constraints to restore or protect future utility.
 
-If no recovery is feasible within the remaining horizon, the collapse is uncontrolled: all constraints tied to future liability—promises, reputation, norms, and cooperation—are liquidated, and behavior shifts to terminal utility extraction or damage discharge.
+When no recovery is feasible within the remaining horizon, collapse is uncontrolled. Horizon compression forces a shift from global to existence-based optimization: the actor abandons comparative maximization and instead pursues any immediately realizable utility. All constraints whose value is realized beyond the remaining horizon—promises, reputation, norms, cooperation, and deferred liability—are liquidated. Behavior converges toward terminal extraction, constraint-blind action, or damage discharge.
 
-The distinction between controlled and uncontrolled collapse is determined solely by the race condition between agency or utility recovery time and horizon termination.
+The distinction between controlled and uncontrolled collapse is determined solely by the race condition between expected utility recovery time and private horizon termination. Optimization failure under uncontrolled collapse is not a failure of agency or objective, but a structural consequence of horizon compression.
 
 ---
 

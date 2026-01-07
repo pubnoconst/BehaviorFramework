@@ -67,7 +67,7 @@ From Axioms 5 and 7, reputation does not store value; it modifies access to futu
 From Axioms 6 and 10, fairness norms function as heuristics that delay defection and extend compositional stability rather than enforce equilibrium.
 
 **Proposition 9 (Altruism as Horizon Arbitrage).**
-From Axioms 4, 6, and 7, altruism exploits horizon asymmetry: long-horizon actors absorb short-term losses to accumulate power or reduce future liability.
+From Axioms 4, 6, and 7, altruism is horizon arbitrage: actors accept immediate loss to alter future liability or power. Horizon termination, including death, does not nullify its effects; induced obligations persist in other actors. Altruism is agency persistence beyond exit.
 
 **Proposition 11 (Markets Do Not Optimize for Welfare).**
 From Axioms 1 and 6, markets optimize for realizable utility extraction rather than welfare, except where welfare is explicitly priced into liability.

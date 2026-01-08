@@ -48,6 +48,12 @@ No permanent equilibrium exists. All compositions are temporally stable and degr
 
 ### 3. Propositions
 
+**Proposition 0 (Investment and Venture).**
+From the axioms that (i) utility resolves only as realized profit or realized harm, (ii) power is capacity to generate future profit, (iii) actors operate under private horizons, and (iv) liability governs behavioral constraint:
+Investment is the voluntary assumption of present or future liability that, under an actor’s private horizon, is priced to yield sufficient future power. This liability may be transferred through dominance or reassigned as a secondary investment. Because future power is estimated rather than observable, investment is structurally mispriced.
+A venture is a configuration intended to convert power into future profit, independent of the actor bearing the liability.
+Profit persists where ventures externalize liability and investments internalize it.
+
 **Proposition 1 (Politics as Anti-Entropic Control).**
 From Axioms 5, 7, and 10, unconstrained optimization drives systems toward horizon collapse and utility exhaustion. Politics injects artificial liabilities and redistributes power, delaying convergence to locally optimal but globally terminal states.
 

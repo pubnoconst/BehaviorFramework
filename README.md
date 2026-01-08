@@ -49,47 +49,57 @@ No permanent equilibrium exists. All compositions are temporally stable and degr
 ### 3. Propositions
 
 **Proposition 0 (Investment and Venture).**
-From the axioms that (i) utility resolves only as realized profit or realized harm, (ii) power is capacity to generate future profit, (iii) actors operate under private horizons, and (iv) liability governs behavioral constraint:
-Investment is the voluntary assumption of present or future liability that, under an actor’s private horizon, is priced to yield sufficient future power. This liability may be transferred through dominance or reassigned as a secondary investment. Because future power is estimated rather than observable, investment is structurally mispriced.
-A venture is a configuration intended to convert power into future profit, independent of the actor bearing the liability.
-Profit persists where ventures externalize liability and investments internalize it.
+
+From Axioms 1, 3, 4, and 7, investment is the voluntary assumption of present or future liability that, under an actor’s private horizon, is priced to yield sufficient future power. Liability may be transferred through dominance or reassigned as another investment. Because future power is estimated rather than directly observable, investment is structurally mispriced. A venture is an attempted configuration for converting power into future profit, independent of which actor bears the associated liability. Profit persists where ventures externalize liability and investments internalize it.
 
 **Proposition 1 (Politics as Anti-Entropic Control).**
+
 From Axioms 5, 7, and 10, unconstrained optimization drives systems toward horizon collapse and utility exhaustion. Politics injects artificial liabilities and redistributes power, delaying convergence to locally optimal but globally terminal states.
 
 **Proposition 2 (Ideal Optimizer Behavior).**
+
 From Axioms 1, 4, and 6, an ideal reductionist actor behaves as if maximizing realizable utility over its effective lifetime horizon, subject to uncertainty and liability constraints.
 
 **Proposition 3 (Promise Impossibility).**
+
 From Axioms 4 and 5, promises have no binding force absent enforceable liability. Observed promise-keeping behavior is reducible to anticipated future utility loss.
 
 **Proposition 4 (Trust as Measurement Error).**
+
 From Axioms 2, 4, and 6, trust is an inference error arising from incomplete horizon and liability estimation, not a property of actors.
 
 **Proposition 6 (Reputation Is Leverage, Not Capital).**
+
 From Axioms 5 and 7, reputation does not store value; it modifies access to future power and liability surfaces.
 
 **Proposition 8 (Fairness as Stability Heuristic).**
+
 From Axioms 6 and 10, fairness norms function as heuristics that delay defection and extend compositional stability rather than enforce equilibrium.
 
 **Proposition 9 (Altruism as Horizon Arbitrage).**
+
 From Axioms 4, 6, and 7, altruism is horizon arbitrage: actors accept immediate loss to alter future liability or power. Horizon termination, including death, does not nullify its effects; induced obligations persist in other actors. Altruism is agency persistence beyond exit.
 
 **Proposition 11 (Markets Do Not Optimize for Welfare).**
+
 From Axioms 1 and 6, markets optimize for realizable utility extraction rather than welfare, except where welfare is explicitly priced into liability.
 
 **Proposition 12 (Stability Is Purchased, Not Achieved).**
+
 From Axioms 5, 7, and 10, stability requires continuous expenditure of power to maintain liability gradients. Absent maintenance, decay is automatic.
 
 **Proposition 13 (God).**
+
 God is dominance named under admitted agency deficit.
 Dominance is explicit when power and enforcement are observable. When dominance is non-local, opaque, or absent, God is inferred to explain outcomes beyond the actor’s control. God-invocation marks acknowledgment of insufficient agency relative to the outcome space.
 
 **Proposition 14 (God as Predation Accelerator).**
+
 From Axioms 4, 5, 6, and 10:
 When enforcement is weak, delayed, or non-local, God-invocation offloads liability to an inferred dominant agent. This lowers immediate reputational and retaliatory cost, reducing the price of defection and accelerating compositional decay. God-invocation stabilizes behavior only when coupled to real, enforceable liability.
 
 **Proposition 15 (Love as Selection-Enforced Entropy).**
+
 Sexual instinct is a gene-level entropy injection compelling irreversible binding under uncertainty. Agents lacking this distortion exit the selection pool.
 Romantic love misrepresents liability acquisition as opportunity, inducing collapse of optionality before outcomes are observable.
 Parental love is sunk-cost enforcement that suppresses post-reproduction defection.
@@ -97,6 +107,7 @@ Legacy narratives reframe irreversible loss as meaning, stabilizing behavior aft
 Love disables unconstrained optimization. Its persistence reflects selection pressure, not actor-level benefit.
 
 **Proposition 16 (Lineage).**
+
 Lineage is the dead exercising agency through liability.
 
 **Proposition 17 (Pride as Premature Optimization).**

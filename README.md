@@ -16,7 +16,7 @@ This paper presents the Liability-Driven Behavior Framework as a compact axiomat
 
 **Axiom 0 (Entropy).**
 
-Entropy is the fundamental liability pressure acting on all agents. Entropy degrades profit estimation and arbitrates private horizon collapse through irreducible liabilities of termination, scarcity, and production constraints. Utility maximization is only defined as local resistance to entropy.
+Entropy is the fundamental liability pressure that generates self-preservation imperatives. Entropy degrades profit estimation and arbitrates private horizon collapse through irreducible liabilities of termination, scarcity, and production constraints. Utility maximization is only defined as local resistance to entropy.
 
 **Axiom 1 (Utility, Profit, and Power).**
 

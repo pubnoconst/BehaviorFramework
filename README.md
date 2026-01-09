@@ -16,7 +16,7 @@ This paper presents the Liability-Driven Behavior Framework as a compact axiomat
 
 **Axiom 0 (Entropy).**
 
-Entropy is the fundamental liability pressure that generates self-preservation imperatives. Entropy degrades profit estimation and arbitrates private horizon collapse through irreducible liabilities of termination, scarcity, and production constraints. Utility maximization is only defined as local resistance to entropy.
+Entropy is the fundamental pressure that degrades power, expands liabilities, and compresses private horizons, thereby contracting the set of reachable utility outcomes.
 
 **Axiom 1 (Utility, Profit, and Power).**
 
@@ -184,6 +184,11 @@ When the expected marginal utility of further search, comparison, or refinement 
 Behaviors commonly labeled as pride or laziness are indistinguishable under this mechanism: both arise from early termination of optimization due to dominance of optimization costs over expected gains.
 
 Thus, failure to apply maximum optimization at all times is not irrationality or loss of agency, but the equilibrium outcome of meta-optimization under horizon constraints.
+
+**Proposition X (Self-Defection).**
+
+An actor continues while at least one non-negative utility outcome remains reachable within its private horizon under existing liability and power constraints.
+Self-defection occurs only when entropy collapses the reachable utility set such that all remaining outcomes are negative.
 
 
 ---

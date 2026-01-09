@@ -82,6 +82,21 @@ From Axioms 4 and 5, promises have no binding force absent enforceable liability
 
 From Axioms 2, 4, and 6, trust is an inference error arising from incomplete horizon and liability estimation, not a property of actors.
 
+**Proposition 5 (Crying as Control Collapse and Cheap Defection).**
+
+From Axioms 5 and 9.
+
+Crying occurs when internal liability exceeds arbitration capacity and control collapses.
+
+With an external observer, crying is liability offloading: signal amplitude is increased to impose negative utility and force intervention.
+
+Without an external observer, crying is a cheap internal defection substituting for entropy-level liability arbitration. Tear discharge is the minimal physical marker of rejected internal enforcement. The cost is bounded, immediate, and internal. Silence is optimal because signaling has no external return and would generate unnecessary future liability. The objective is bypass, not communication.
+
+Constraint relaxation follows because continued internal damage dominates the liability surface. The system yields to prevent further loss, not due to relief or compassion.
+
+External crying redistributes liability.
+Solitary crying evades it.
+
 **Proposition 6 (Reputation Is Leverage, Not Capital).**
 
 From Axioms 5 and 7, reputation does not store value; it modifies access to future power and liability surfaces.

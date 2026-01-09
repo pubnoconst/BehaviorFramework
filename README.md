@@ -90,7 +90,7 @@ Crying occurs when internal liability exceeds arbitration capacity and control c
 
 With an external observer, crying is liability offloading: signal amplitude is increased to impose negative utility and force intervention.
 
-Without an external observer, crying is a cheap internal defection substituting for entropy-level liability arbitration. Tear discharge is the minimal physical marker of rejected internal enforcement. The cost is bounded, immediate, and internal. Silence is optimal because signaling has no external return and would generate unnecessary future liability. The objective is bypass, not communication.
+Without an external observer, crying is a cheap internal defection that an agent proposes as a substitute of entropy-level liability arbitration. Tear discharge is the minimal physical marker of rejected internal enforcement. The cost is bounded, immediate, and internal. Silence is optimal because signaling has no external return and would generate unnecessary future liability. The objective is bypass, not communication.
 
 Constraint relaxation follows because continued internal damage dominates the liability surface. The system yields to prevent further loss, not due to relief or compassion.
 
@@ -101,33 +101,33 @@ Solitary crying evades it.
 
 From Axioms 5 and 7, reputation does not store value; it modifies access to future power and liability surfaces.
 
-**Proposition 8 (Fairness as Stability Heuristic).**
+**Proposition 7 (Fairness as Stability Heuristic).**
 
 From Axioms 6 and 10, fairness norms function as heuristics that delay defection and extend compositional stability rather than enforce equilibrium.
 
-**Proposition 9 (Altruism as Horizon Arbitrage).**
+**Proposition 8 (Altruism as Horizon Arbitrage).**
 
 From Axioms 4, 6, and 7, altruism is horizon arbitrage: actors accept immediate loss to alter future liability or power. Horizon termination, including death, does not nullify its effects; induced obligations persist in other actors. Altruism is agency persistence beyond exit.
 
-**Proposition 11 (Markets Do Not Optimize for Welfare).**
+**Proposition 9 (Markets Do Not Optimize for Welfare).**
 
 From Axioms 1 and 6, markets optimize for realizable utility extraction rather than welfare, except where welfare is explicitly priced into liability.
 
-**Proposition 12 (Stability Is Purchased, Not Achieved).**
+**Proposition 10 (Stability Is Purchased, Not Achieved).**
 
 From Axioms 5, 7, and 10, stability requires continuous expenditure of power to maintain liability gradients. Absent maintenance, decay is automatic.
 
-**Proposition 13 (God).**
+**Proposition 11 (God).**
 
 God is dominance named under admitted agency deficit.
 Dominance is explicit when power and enforcement are observable. When dominance is non-local, opaque, or absent, God is inferred to explain outcomes beyond the actor’s control. God-invocation marks acknowledgment of insufficient agency relative to the outcome space.
 
-**Proposition 14 (God as Predation Accelerator).**
+**Proposition 12 (God as Predation Accelerator).**
 
 From Axioms 4, 5, 6, and 10:
 When enforcement is weak, delayed, or non-local, God-invocation offloads liability to an inferred dominant agent. This lowers immediate reputational and retaliatory cost, reducing the price of defection and accelerating compositional decay. God-invocation stabilizes behavior only when coupled to real, enforceable liability.
 
-**Proposition 15 (Love as Selection-Enforced Entropy).**
+**Proposition 13 (Love as Selection-Enforced Entropy).**
 
 Sexual instinct is a gene-level entropy injection compelling irreversible binding under uncertainty. Agents lacking this distortion exit the selection pool.
 Romantic love misrepresents liability acquisition as opportunity, inducing collapse of optionality before outcomes are observable.
@@ -135,11 +135,11 @@ Parental love is sunk-cost enforcement that suppresses post-reproduction defecti
 Legacy narratives reframe irreversible loss as meaning, stabilizing behavior after hormonal enforcement decays.
 Love disables unconstrained optimization. Its persistence reflects selection pressure, not actor-level benefit.
 
-**Proposition 16 (Lineage).**
+**Proposition 14 (Lineage).**
 
 Lineage is the dead exercising agency through liability.
 
-**Proposition 17 (Pride as Premature Optimization).**
+**Proposition 15 (Pride as Premature Optimization).**
 From Axioms 4, 6, and 7.
 
 Pride is the selection of sufficiency over continued optimization.
@@ -163,7 +163,7 @@ Collapse is therefore not caused by pride itself, but by premature convergence u
 Pride is an optimization heuristic with asymmetric downside:
 it saves effort immediately and charges its cost later, often beyond the actor’s ability to respond.
 
-**Proposition 18 (Control Collapse).**
+**Proposition 16 (Control Collapse).**
 
 From Axioms 4, 5, and 6:
 
@@ -175,7 +175,7 @@ When no recovery is feasible within the remaining horizon, collapse is uncontrol
 
 The distinction between controlled and uncontrolled collapse is determined solely by the race condition between expected utility recovery time and private horizon termination. Optimization failure under uncontrolled collapse is not a failure of agency or objective, but a structural consequence of horizon compression.
 
-**Proposition 19 (Optimization-Against-Optimization).**
+**Proposition 17 (Optimization-Against-Optimization).**
 
 An actor does not apply maximum optimization continuously because optimization itself incurs cost in time, attention, risk, and horizon consumption. At each decision point, the actor optimizes not only over actions, but over the *optimization regime* applied to those actions.
 

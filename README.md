@@ -14,34 +14,48 @@ This paper presents the Liability-Driven Behavior Framework as a compact axiomat
 
 ### 2. Axioms
 
+**Axiom 0 (Entropy).**
+
+Entropy is the fundamental liability pressure acting on all agents. Entropy degrades profit estimation and arbitrates private horizon collapse through irreducible liabilities of termination, scarcity, and production constraints. Utility maximization is only defined as local resistance to entropy.
+
 **Axiom 1 (Utility, Profit, and Power).**
+
 Utility is the sole scalar objective. Utility is realized only as profit, defined as asset–liability delta. Power is not utility and is not reducible to profit; it is the capacity to determine which profit realizations are possible by reshaping action sets, enforcement, and liability under uncertainty.
 
 **Axiom 2 (Agents and Actors).**
+
 An agent is any system capable of producing a utility delta. An actor is an agent capable of realizing utility and updating strategy. Selection occurs exclusively at the actor level.
 
 **Axiom 3 (Harm).**
+
 Harm is imposed negative utility delta. It has no intrinsic moral status and represents a state transition only.
 
 **Axiom 4 (Time and Horizon).**
+
 Time is variable. Actors operate over private, non-observable horizons. Actions may be locally profitable and globally unprofitable without contradiction.
 
 **Axiom 5 (Liability).**
+
 Liability is expected future negative utility conditional on action. Law, retaliation, reputation, and institutions function as liability mechanisms.
 
 **Axiom 6 (Optimization).**
+
 Actors choose actions that maximize expected discounted utility given realizability, horizon, liability surface, and uncertainty.
 
 **Axiom 7 (Power Accumulation).**
+
 Power is accumulated as insurance against profit decay. Latent power preserves optionality under uncertainty.
 
 **Axiom 8 (Compositions).**
+
 Actors do not merge into a single agent. Institutions are compositions of actors temporarily aligned by incentives. Defection remains continuously available.
 
 **Axiom 9 (Politics).**
+
 Politics is the engineering of power and liability distributions to shape behavior. Psychology is internal politics among competing sub-agents.
 
 **Axiom 10 (Stability and End Game).**
+
 No permanent equilibrium exists. All compositions are temporally stable and degrade toward predation as information spreads and liabilities weaken.
 
 ---

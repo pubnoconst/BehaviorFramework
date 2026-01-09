@@ -64,7 +64,7 @@ No permanent equilibrium exists. All compositions are temporally stable and degr
 
 **Proposition 0 (Investment and Venture).**
 
-From Axioms 1, 3, 4, and 7, investment is the voluntary assumption of present or future liability that, under an actor’s private horizon, is priced to yield sufficient future power. Liability may be transferred through dominance or reassigned as another investment. Because future power is estimated rather than directly observable, investment is structurally mispriced. A venture is an attempted configuration for converting power into future profit, independent of which actor bears the associated liability. Profit persists where ventures externalize liability and investments internalize it.
+Entropy is the fundamental liability pressure that generates self-preservation imperatives. Entropy degrades profit estimation and arbitrates private horizon collapse through irreducible liabilities of termination, scarcity, and production constraints. Utility maximization is only defined as local resistance to entropy.
 
 **Proposition 1 (Politics as Anti-Entropic Control).**
 

@@ -185,7 +185,7 @@ Behaviors commonly labeled as pride or laziness are indistinguishable under this
 
 Thus, failure to apply maximum optimization at all times is not irrationality or loss of agency, but the equilibrium outcome of meta-optimization under horizon constraints.
 
-**Proposition X (Self-Defection).**
+**Proposition 18 (Self-Defection).**
 
 An actor continues while at least one non-negative utility outcome remains reachable within its private horizon under existing liability and power constraints.
 Self-defection occurs only when entropy collapses the reachable utility set such that all remaining outcomes are negative.

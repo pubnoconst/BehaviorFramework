@@ -188,7 +188,7 @@ Thus, failure to apply maximum optimization at all times is not irrationality or
 **Proposition 18 (Self-Defection).**
 
 An actor continues while at least one non-negative utility outcome remains reachable within its private horizon under existing liability and power constraints.
-Self-defection occurs only when entropy collapses the reachable utility set such that all remaining outcomes are negative.
+Self-defection occurs only when entropy collapses the reachable utility set such that all remaining outcomes are negative. Ultimate optimiation does not guarantee high profit. Profit is simply a delta between utility and liabilities. 
 
 
 ---

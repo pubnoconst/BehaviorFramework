@@ -32,7 +32,6 @@ Utility is the sole scalar objective. Profit is realized utility: the asset–li
 An agent is any system capable of producing a utility delta. An actor is an agent capable of realizing utility and updating strategy. Selection occurs exclusively at the actor level.
 
 **Axiom 3 (Harm).**
-
 Harm is imposed negative utility delta. It has no intrinsic moral status and represents a state transition only.
 
 **Axiom 4 (Time and Horizon).**
@@ -44,7 +43,7 @@ Liability is expected future negative utility conditional on action. Law, retali
 **Axiom 6 (Optimization).**
 Actors choose actions that maximize expected discounted utility given realizability, horizon, liability surface, and uncertainty.
 
-**Axiom 7 (Power Accumulation).**
+**Axiom 7 (Law of the Unequal).**
 Power accumulates as insurance against profit decay. Latent power preserves optionality under uncertainty and induces persistent asymmetries in estimation.
 
 **Axiom 8 (Compositions).**
@@ -133,7 +132,6 @@ Markets manifest as extraction mechanisms, not welfare optimizers. Welfare appea
 Stability manifests only under continuous expenditure of power. Apparent equilibrium is maintained imbalance. When maintenance ceases, decay toward predation is automatic.
 
 **Manifestation 9 (God).**
-
 God manifests under agency deficit. When dominance is opaque, non-local, or unenforceable, outcomes are attributed to an inferred dominant agent. God-invocation externalizes liability and lowers defection cost. Stabilization occurs only when invocation is coupled to real enforcement.
 
 God-invocation offloads liability to an inferred dominant agent, reducing immediate defection cost. It stabilizes behavior only when coupled to real, enforceable liability.
@@ -161,7 +159,7 @@ Actors manifest variable optimization intensity. Search truncation, satisficing,
 Self-defection manifests only when all reachable outcomes within the remaining horizon are negative. It is terminal optimization under complete utility exhaustion, not failure of agency or intent.
 
 
-## Closing: Mechanics over Normative Assumptions
+## Closing: The last philosophy that pretends to be a philosophy
 
 Behavior does not originate from virtue, prudence, or principle. Values and rules emerge only after outcomes stabilize and liabilities are priced. Horizons compress. Power decays. Liabilities surface. Action follows.
 
@@ -169,6 +167,4 @@ Centralized authority never possesses intrinsic agency. Apparent sovereignty or 
 
 Strategy and prudence appear effective only when horizons, liabilities, and optionality align. Apparent foresight or cunning is a surface artifact of deeper mechanics, not a generator of outcomes.
 
-Persistence, collapse, ambition, and defection are governed by the interplay of horizons, liabilities, and power. Behavior is predictable, constrained, and indifferent to morality. No reconciliation, sanction, or instruction is required.
-
-LDBF is the last philosophy that pretends to be a philosophy. Underneath its machinery, there remains nothing to stand on.
+Persistence, collapse, ambition, and defection are governed by the interplay of horizons, liabilities, and power. Behavior is predictable, constrained, and indifferent to morality.

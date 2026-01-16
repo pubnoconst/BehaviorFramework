@@ -104,10 +104,6 @@ An actor persists while at least one non-negative utility outcome remains reacha
 
 ---
 
-Here is a clean **Manifestations** section. These are contingent expressions of the observations under specific environments, horizons, and liability surfaces. Examples belong here. Nothing axiomatic. Nothing universal. All degradable.
-
----
-
 ### 4. Manifestations
 
 **Manifestation 1 (Promises).**

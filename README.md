@@ -103,7 +103,7 @@ An actor persists while at least one non-negative utility outcome remains reacha
 
 ---
 
-### 4. Manifestations
+### Manifestations
 
 **Manifestation 1 (Promises).**
 Promises manifest only where liability is enforceable across horizons. Where enforcement is weak, delayed, or ambiguous, promises degrade into cheap signals. Observed promise-keeping reflects anticipated future utility loss, not binding force. Broken promises indicate mispriced liability, not moral failure.

@@ -1,4 +1,4 @@
-# Liability-Driven Behavior Framework (LDBF) Revision 2.0
+# Liability-Driven Behavior Framework (LDBF)
 
 ## Introduction: The Illusion of Moral Depth
 
@@ -174,3 +174,5 @@ Centralized authority never possesses intrinsic agency. Apparent sovereignty or 
 Strategy and prudence appear effective only when horizons, liabilities, and optionality align. Apparent foresight or cunning is a surface artifact of deeper mechanics, not a generator of outcomes.
 
 Persistence, collapse, ambition, and defection are governed by the interplay of horizons, liabilities, and power. Behavior is predictable, constrained, and indifferent to morality. No reconciliation, sanction, or instruction is required.
+
+LDBF is the last philosophy that pretends to be a philosophy. Underneath its machinery, there remains nothing to stand on.

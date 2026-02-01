@@ -128,7 +128,17 @@ An actor persists while at least one non-negative utility outcome remains reacha
 
 ---
 
-### Manifestations
+## Closing: The Last Philosophy That Pretends to Be a Philosophy
+
+Behavior does not originate from virtue, prudence, or principle. Values and rules emerge only after outcomes stabilize and liabilities are priced. Horizons compress. Power decays. Liabilities surface. Action follows.
+
+Centralized authority never possesses intrinsic agency. Apparent sovereignty or exception is only a temporary redistribution of liability and power. Compliance does not arise from fear or loyalty; it is a structural consequence of entropy, horizon limits, and asymmetric enforcement.
+
+Strategy and prudence appear effective only when horizons, liabilities, and optionality align. Apparent foresight or cunning is a surface artifact of deeper mechanics, not a generator of outcomes.
+
+Persistence, collapse, ambition, and defection are governed by the interplay of horizons, liabilities, and power. Behavior is predictable, constrained, and indifferent to morality.
+
+### Annex: Manifestations
 
 **Manifestation 1 (Promises).**
 
@@ -210,20 +220,15 @@ Every “inalienable right” is just a line item justified by revolt math.
 The state does not support marriage; it prices it. When stable marriages stop being the cheapest way to manufacture future taxpayers, the state actively incentivizes defection. Family courts, welfare, and labor policy lower the exit cost for one party to convert domestic capital into immediately taxable labor. This is not moral drift, it is balance-sheet optimization.
 Pro-marriage rhetoric is ceremonial. The real policy signal is asymmetric exit. When lineage-based tax production weakens, the state bypasses marriage entirely and imports ready taxpayers via immigration. Deferred rent is abandoned in favor of liquid rent. Marriage decays because the state no longer needs it.
 
-**Manifestation 18 (Soul as Internalized Unequal Prior).**
+**Manifestation 18 (Constitution of Soul)**
 
-The soul is a prior asymmetry within an agent: a fixed delta in profit estimation and horizon selection arising from path-dependent, liability-borne history. Inherited constraints establish initial deltas, and irreversible ventures under non-delegable liabilities compress experience into lossy representations. These compressions generate self-imposed priors, producing idiosyncratic and opaque decision patterns. The soul is the label for this asymmetry, which renders the agent’s behavior non-transparent and non-emulable without replicating identical entropic costs. Continuity or change in the soul is only the reweighting of these asymmetries under shifting liabilities; it has no agency or causal power of its own.
+The soul is the set of an agent’s inherited and acquired asymmetries: structural constraints, path-dependent distortions, and compressed histories of liability versus profit. Poverty, disability, family background, and early ventures are not circumstantial—they are structural priors that bias perception, valuation, and horizon selection. While the soul is inelastic and resistant to incremental change, non-incremental events (catastrophe or windfall) can rewrite it, shifting which risks are visible and which rewards are attainable. The soul is the container of what an agent determines is valuable; it is the inertial architecture of identity.
 
-**Manifestation 19 (The Dominance of Sex Rent).**
+**Manifestation 19 (Grammar of Emotions)**
+
+Emotion is the fast, real-time valuation of liability versus profit: the signal that moves the agent. Whether internal (Hunger, Fatigue) or exogenous (Fear, Ambition, Loyalty), these are not abstractions but immediate, asymmetrical outputs of the soul’s priors. Emotions fire when events threaten the agent's specific liability surface; they drive action, and their lossy compressions feed back into the soul, reinforcing existing asymmetries. Emotion is the agent’s runtime interface with the world; the soul is the compiled logic that sets the rules of engagement.
+
+**Manifestation 20 (The Dominance of Sex Rent).**
 
 Male and female agents carry an irreducible asymmetry in reproductive features. In the absence of stronger sunk-costs or internalized liabilities, every interaction, horizon, and leverage point is pre-priced by this asymmetry. Other asymmetries may accumulate to exceed it in total effect, but no single unit surpasses it. Thus, platonic male-female compositions are not in the terminal equilibria.
 
-## Closing: The Last Philosophy That Pretends to Be a Philosophy
-
-Behavior does not originate from virtue, prudence, or principle. Values and rules emerge only after outcomes stabilize and liabilities are priced. Horizons compress. Power decays. Liabilities surface. Action follows.
-
-Centralized authority never possesses intrinsic agency. Apparent sovereignty or exception is only a temporary redistribution of liability and power. Compliance does not arise from fear or loyalty; it is a structural consequence of entropy, horizon limits, and asymmetric enforcement.
-
-Strategy and prudence appear effective only when horizons, liabilities, and optionality align. Apparent foresight or cunning is a surface artifact of deeper mechanics, not a generator of outcomes.
-
-Persistence, collapse, ambition, and defection are governed by the interplay of horizons, liabilities, and power. Behavior is predictable, constrained, and indifferent to morality.

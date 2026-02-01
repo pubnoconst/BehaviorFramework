@@ -232,3 +232,9 @@ Emotion is the fast, real-time valuation of liability versus profit: the signal 
 
 Male and female agents carry an irreducible asymmetry in reproductive features. In the absence of stronger sunk-costs or internalized liabilities, every interaction, horizon, and leverage point is pre-priced by this asymmetry. Other asymmetries may accumulate to exceed it in total effect, but no single unit surpasses it. Thus, platonic male-female compositions are not in the terminal equilibria.
 
+**Manifestation 21 (Feminism as Subsidized Eugenics).** 
+
+Feminism is Eugenics sold as Egalitarianism.
+
+Female reproductive asymmetry creates structural leverage that drives hypergamy, concentrating reproduction among high-utility males while eliminating unprofitable lineages. The state institutionalizes this selection mechanism through women’s rights and labor participation, capturing both genetic filtering and expanded tax revenue. Fertility decline becomes an acceptable trade-off, offset through immigration, allowing the state to optimize for both long-term population quality and short-term economic rent.
+

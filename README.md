@@ -238,3 +238,7 @@ Feminism is Eugenics sold as Egalitarianism.
 
 Female reproductive asymmetry creates structural leverage that drives hypergamy, concentrating reproduction among high-utility males while eliminating unprofitable lineages. The state institutionalizes this selection mechanism through women’s rights and labor participation, capturing both genetic filtering and expanded tax revenue. Fertility decline becomes an acceptable trade-off, offset through immigration, allowing the state to optimize for both long-term population quality and short-term economic rent.
 
+**Manifestation 22 (Morality)**
+
+Morality manifests as imported intention. It is a set of exogenously imposed profit rankings adopted as a low-cost substitute for recomputation. Conviction in these rankings scales with opacity: the more computationally expensive the underlying profit–liability calculus, the deeper the reliance on the import. Agents treat this computational barrier as objectivity. 
+
